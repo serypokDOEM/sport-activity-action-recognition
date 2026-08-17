@@ -1,2 +1,10 @@
 opencv-python
-ultralytics
+mediapipe==0.10.14
+torch
+scikit-learn
+matplotlib
+seaborn
+gradio
+joblib
+imageio-ffmpeg
+numpy
