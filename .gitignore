@@ -39,8 +39,11 @@ htmlcov/
 
 # Data files and raw videos
 data/raw_videos/
+data/processed/
 
-data/extracted_frames/
+# Trained models and output runs
+models/
+runs/
 
 # Logs
 *.log
@@ -51,3 +54,4 @@ data/extracted_frames/
 
 # System files
 Thumbs.db
+.venv
